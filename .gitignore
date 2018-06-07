@@ -1,0 +1,20 @@
+
+XTsplit/Bolts\.framework/
+
+XTsplit/Bolts 2\.framework/
+
+XTsplit/FBSDKCoreKit 2\.framework/
+
+XTsplit/FBSDKCoreKit\.framework/
+
+XTsplit/FBSDKLoginKit 2\.framework/
+
+XTsplit/FBSDKLoginKit\.framework/
+
+XTsplit/FBSDKShareKit 2\.framework/
+
+XTsplit/FBSDKShareKit\.framework/
+
+XTsplit/XTsplit\.xcworkspace/xcuserdata/
+
+XTsplit/XTsplit/GoogleService-Info\.plist
